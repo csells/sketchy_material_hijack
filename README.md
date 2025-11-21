@@ -3,6 +3,11 @@
 A Flutter application demonstrating how to achieve a hand-drawn, "sketchy"
 aesthetic by hijacking Material widgets and using a custom rough drawing engine.
 
+## See it in action
+
+See the [Sketchy Material Hijacking
+Demo](https://dartpad.dev/?id=dbdc5a2606b672a22637f634c4c1bb87) in DartPad.
+
 ## The Technique: Material Hijacking
 
 The primary goal of this project is to create a unique visual style without
